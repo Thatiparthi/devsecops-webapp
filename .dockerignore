@@ -1,5 +1,10 @@
 venv/
-_pycache_/
+.venv/
+app/venv/
+app/.venv/
+__pycache__/
 *.pyc
+.pytest_cache/
+.scannerwork/
 .git/
 .github/

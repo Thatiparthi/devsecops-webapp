@@ -1,9 +1,12 @@
 venv/
+.venv/
 app/venv/
-_pycache_/
+app/.venv/
+__pycache__/
 *.py[cod]
+.pytest_cache/
+.scannerwork/
 .env
 .vscode/
 .DS_Store
 Thumbs.db
-
